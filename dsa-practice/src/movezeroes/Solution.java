@@ -1,4 +1,4 @@
-package MoveZeros;
+package movezeroes;
 
 import java.util.Arrays;
 
